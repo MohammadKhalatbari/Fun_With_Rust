@@ -16,7 +16,7 @@ fn main() {
                 }
             };
             
-            fibbonacci(input_number);
+            fibonacci(input_number);
         }
         Err(error) => {
             // If there was an error reading the input, handle it
@@ -25,7 +25,7 @@ fn main() {
     }
 }
 
-fn fibbonacci(input_number: u32) {
+fn fibonacci(input_number: u32) {
     let mut my_list: Vec<u32> = Vec::new();
     let mut i: u32 = 0;
     let mut sum: u32 = 0;
