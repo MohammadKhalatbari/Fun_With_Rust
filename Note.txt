@@ -1,0 +1,8 @@
+Advanteges:
+1- Very good compiler with good error and warning description.
+2- Very good speed
+
+
+Disadvanteges:
+1- Defiing the values are Weird.
+2- Type of integers are Weird.
